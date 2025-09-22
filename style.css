@@ -1,6 +1,7 @@
 body {
   color: blue;
   background: black;
+    font-family: "Zalando Sans Expanded", sans-serif;
 }
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
